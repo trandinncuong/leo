@@ -28,7 +28,7 @@ Leo is a functional, statically-typed programming language built for writing pri
 
 
 ## 🍎 Overview
-
+## note the the team to support install from binary
 Welcome to the Leo programming language.
 
 Leo provides a high-level language that abstracts low-level cryptographic concepts and makes it easy to 
@@ -43,7 +43,7 @@ The language is currently in an alpha stage and is subject to breaking changes.
 ## ⚙️️ Build Guide 
 
 ### 🦀 Install Rust
-
+Install curl before proceed.
 We recommend installing Rust using [rustup](https://www.rustup.rs/). You can install `rustup` as follows:
 
 - macOS or Linux:
